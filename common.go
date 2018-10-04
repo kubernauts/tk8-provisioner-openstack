@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/kubernauts/tk8/internal/cluster"
+	"github.com/kubernauts/tk8-provisioner-openstack/internal/cluster"
 	"github.com/spf13/viper"
 )
 
